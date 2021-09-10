@@ -1,4 +1,4 @@
-# HazeCoinsAPI
+# HazeCoinsAPI (Wird noch nicht genutzt)
 RushGamez Coinssystem | Version 1.0.0
 
 # API
