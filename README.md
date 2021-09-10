@@ -1,0 +1,2 @@
+# HazeCoinsAPI
+RushGamez Coinssystem
